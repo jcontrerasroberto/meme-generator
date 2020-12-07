@@ -1,6 +1,6 @@
 # Meme generator
 
-**My first project using ReactJS. Now I'm better in React and I develop my [portfolio ](https://robertocontreras-portfolio.vercel.app/) using ReactJS**
+**My first project using ReactJS. Now I'm better at React and I develop my [portfolio ](https://robertocontreras-portfolio.vercel.app/) using ReactJS**
 
 Simple web app that create memes with random images and the text you enter.
 
